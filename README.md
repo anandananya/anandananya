@@ -10,7 +10,6 @@ hi i'm ananya! Here are some things I have been working on/about me:
 What I'd like to get better at:
   - delve into the science behind AI/ML
   - make websites more functional + learn Java Script
-  - learn quant!
   - finish writing papers
   - ...and so much more!
 
