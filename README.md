@@ -5,7 +5,7 @@ hi i'm ananya! Here are some things I have been working on/about me:
   - 🦾 VeX Robotics Worlds 2020-2022 (2075A)
   - 🎞 animating mini harry potter via Blender
   - 🍿 Anything and Everything Trevor Noah
-  - 📚 GoodReads currently: Ignition:)
+  - 📚 current goodread: Ignition:)
 
 What I'd like to get better at:
   - delve into the science behind AI/ML
